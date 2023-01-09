@@ -1,4 +1,4 @@
-# Insomnia Portable Portable
+# Insomnia Portable
 Insomnia Portable is a portable version of the [insomnia](https://insomnia.rest/products/insomnia).
 
 ## Download
