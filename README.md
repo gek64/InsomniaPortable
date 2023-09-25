@@ -1,5 +1,5 @@
 # Insomnia Portable
-Insomnia Portable is a portable version of the [insomnia](https://insomnia.rest/products/insomnia).
+Insomnia Portable is a portable version of the [insomnia](https://github.com/Kong/insomnia/releases).
 
 ## Download
 All downloads available in the [Releases](https://github.com/gek64/InsomniaPortable/releases)
