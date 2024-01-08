@@ -2,7 +2,7 @@
 Insomnia Portable is a portable version of the [insomnia](https://github.com/Kong/insomnia/releases).
 
 ## Download
-All downloads available in the [Releases](https://github.com/gek64/InsomniaPortable/releases)
+**After v8.0.0, Insomnia must have an account to add more than one projects, the latest version of InsomniaPortable will stay at v2023.5.8, the latest version does not have this limitation**, Downloads available in the [Releases](https://github.com/gek64/InsomniaPortable/releases).
 
 ## Features
 * Run the full insomnia application.
